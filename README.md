@@ -6,7 +6,7 @@ where each letter maps uniquely to another letter. For example, if the key maps
 
 Bash Script
 The user provides the plaintext and the substitution key (a permutation of the alphabet).
-
+ 
 How the Script Works?
 
 Input:
