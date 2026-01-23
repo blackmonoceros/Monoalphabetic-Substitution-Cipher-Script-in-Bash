@@ -30,4 +30,4 @@ Run the script: ./cipher.sh.
 
 Security Note
 This cipher is simple and easy to implement but is not secure by modern standards. It can be broken using frequency analysis, 
-as the frequency of letters in the ciphertext will match the frequency of letters in the plaintext language.
+as the frequency of letters in the ciphertext will match the frequency of letters in the plaintext language
