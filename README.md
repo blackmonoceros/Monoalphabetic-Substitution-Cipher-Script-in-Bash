@@ -1,4 +1,4 @@
-# Monoalphabetic-Substitution-Cipher-Script-in-Bash
+ok# Monoalphabetic-Substitution-Cipher-Script-in-Bash
 The monoalphabetic substitution cipher replaces each letter in the plaintext with a 
 corresponding letter from a substitution key. The key is a permutation of the alphabet, 
 where each letter maps uniquely to another letter. For example, if the key maps 
@@ -30,4 +30,4 @@ Run the script: ./cipher.sh.
 
 Security Note
 This cipher is simple and easy to implement but is not secure by modern standards. It can be broken using frequency analysis, 
-as the frequency of letters in the ciphertext will match the frequency of letters in the plaintext language
+as the frequency of letters in the ciphertext will match the frequency of letters in the plaintext language.
