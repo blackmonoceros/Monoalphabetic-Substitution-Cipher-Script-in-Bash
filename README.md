@@ -4,7 +4,7 @@ corresponding letter from a substitution key. The key is a permutation of the al
 where each letter maps uniquely to another letter. For example, if the key maps 
 "A" to "Q", "B" to "W", and so on, the plaintext "HELLO" might be encrypted as "ITSSG".
 
-Bash Script
+Bash Script 
 The user provides the plaintext and the substitution key (a permutation of the alphabet).
  
 How the Script Works?
